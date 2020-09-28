@@ -6,6 +6,9 @@ import java.io.*;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+/**
+* Просто записывает звук с микрофона и заливает получившиеся файлы на dropbox
+*/
 public class JavaSoundRecorder
 {
     private String filePath;
